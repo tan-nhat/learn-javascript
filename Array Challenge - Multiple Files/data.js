@@ -1,4 +1,4 @@
-const student = [
+const students = [
   { id: 1, name: 'peter', score: 80, favoriteSubject: 'math', },
   { id: 2, name: 'susan', score: 99, favoriteSubject: 'history', },
   { id: 3, name: 'anna', score: 85, favoriteSubject: 'math', },
