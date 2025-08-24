@@ -6,3 +6,6 @@ const student = [
   { id: 5, name: 'bobo', score: 74, favoriteSubject: 'history', },
 ];
 
+function sayName(name){
+    console.log(name);
+}
