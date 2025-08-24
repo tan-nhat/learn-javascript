@@ -1,5 +1,7 @@
 const highScores = students.filter(function(student) {
-    return student.score >= 80;
+    if (student.score >= 80){
+        return student;
+    };
 });
 
 console.log(highScores);
